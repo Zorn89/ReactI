@@ -5,7 +5,7 @@ import './App.css'; // Standard App-Styles (optional)
 
 function App() {
   const tiere = [
-    { name: 'Bello', art: 'Hund', krankheit: 'Allergie' },
+    { name: 'wuffi', art: 'Hund', krankheit: 'Allergie' },
     { name: 'Minka', art: 'Katze', krankheit: "Hundeallergie" },
     { name: 'Hans', art: 'Wellensittich', krankheit: 'Untervögelt' },
     { name: 'Nemo', art: 'Goldfisch', krankheit: "Wassersucht" },
